@@ -14,6 +14,14 @@ Pelacak Tugas adalah proyek yang digunakan untuk melacak dan mengelola tugas And
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs&perline=3)](https://skillicons.dev)
 ## How To Use
+Inisiasi NPM install tools dibutuhkan
+```sh
+npm init
+npm i yargs
+npm i validator
+```
+Sudah bisa digunakan
+
 Menambahkan Task
 ```sh
 node task-cli add --name="namaTugas"
